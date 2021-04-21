@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Emily</td>
+    <td>Sao Paulo</td>
+  </tr>
 </table>
